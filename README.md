@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManibharathiDev
 - 👀 I’m interested in android apps development and web apps development
-- 🌱 I’m currently learning DSA,react native, blockchain, golang
+- 🌱 I’m currently learning DSA in Scaler ,React Native for Front End Development, blockchain, golang
 - 📫 Contact me at +91 9944033729 or Email me at manibharath159@gmail.com
 
 <!---
